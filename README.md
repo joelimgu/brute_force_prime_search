@@ -20,7 +20,7 @@ basic "wired" concepts of rust:
 
 This exercise lacks mostly async rust, multithreading and most importantly rust all powerful enums. 
 
-It is the continuation of the conference given as an introduction to the Rust language. YOu can find the presentation
+It is the continuation of the conference given as an introduction to the Rust language. You can find the presentation
 in my website: [Presentation](https://joelimgu.github.io/posts/21/11/2021/formation-rust-CR);
 
 ### Contributing
